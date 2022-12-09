@@ -1,0 +1,27 @@
+.Color {
+  text-align: center;
+}
+
+.Color-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.Color-header a {
+  color: white;
+}
+
+.Color-title {
+  font-size: 1.5em;
+}
+
+.Color-intro {
+  font-size: large;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
